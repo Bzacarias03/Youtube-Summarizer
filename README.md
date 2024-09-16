@@ -12,7 +12,7 @@ This app offers the following:
  - Simple UI for ease of use
  - Option for detailed or short summaries
 
-   ![Main UI](https://github.com/user-attachments/assets/5a5df3f7-bb2f-46b5-b7df-625c413ff4a2)
+   ![Main UI](https://github.com/user-attachments/assets/5a5df3f7-bb2f-46b5-b7df-625c413ff4a2 =300x590)
 
  - Network connection alert if AI cannot access YouTube video
  - Caption error alert if there is an error getting captions
